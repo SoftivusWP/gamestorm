@@ -632,7 +632,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=18</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=17</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:15:{s:4:"type";s:5:"image";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";s:12:"preview_size";s:6:"medium";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[category_icon]]></excerpt:encoded>
@@ -656,7 +656,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=19</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=19</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:18:{s:4:"type";s:7:"gallery";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:12:"preview_size";s:6:"medium";s:6:"insert";s:6:"append";s:7:"library";s:3:"all";s:3:"min";s:0:"";s:3:"max";s:0:"";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[gallery_images]]></excerpt:encoded>
@@ -680,7 +680,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=21</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=21</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"20";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:3:"4.5";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[total_rating]]></excerpt:encoded>
@@ -704,7 +704,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=22</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=22</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"20";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:12:"5.2M Reviews";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[total_review]]></excerpt:encoded>
@@ -728,7 +728,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=23</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=23</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=23</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"20";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:5:"500M+";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[total_download]]></excerpt:encoded>
@@ -752,7 +752,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=24</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=24</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"20";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:9:"Downloads";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[download_text]]></excerpt:encoded>
@@ -776,7 +776,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=25</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=25</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"20";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:7:"FEATURE";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[feature_tag_title]]></excerpt:encoded>
@@ -800,7 +800,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=26</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=26</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:15:{s:4:"type";s:5:"image";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";s:12:"preview_size";s:6:"medium";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[apple_store_image]]></excerpt:encoded>
@@ -824,7 +824,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=27</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=27</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[apple_store_link]]></excerpt:encoded>
@@ -848,7 +848,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=28</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=28</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:15:{s:4:"type";s:5:"image";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";s:12:"preview_size";s:6:"medium";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[play_store_image]]></excerpt:encoded>
@@ -872,7 +872,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=29</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=29</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=29</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[play_store_link]]></excerpt:encoded>
@@ -896,7 +896,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=30</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=30</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:15:{s:4:"type";s:5:"image";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";s:12:"preview_size";s:6:"medium";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[amazon_store_image]]></excerpt:encoded>
@@ -920,7 +920,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=31</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=31</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=31</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[amazon_store_link]]></excerpt:encoded>
@@ -944,7 +944,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=32</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=32</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:43:"https://www.youtube.com/watch?v=NZW7yzIrxOo";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[game_video_link]]></excerpt:encoded>
@@ -968,7 +968,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=33</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=33</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=33</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:15:{s:4:"type";s:5:"image";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";s:12:"preview_size";s:6:"medium";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[thumbnail_image_game]]></excerpt:encoded>
@@ -992,7 +992,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=35</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=35</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=35</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:4:"draw";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[icon_name_material_icon]]></excerpt:encoded>
@@ -1016,7 +1016,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=36</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=36</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=36</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:4:"Al10";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[job_address]]></excerpt:encoded>
@@ -1040,7 +1040,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=37</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=37</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=37</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:9:"Full Time";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[job_time]]></excerpt:encoded>
@@ -1064,7 +1064,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=38</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=38</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:10:"2 Days ago";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[time_remaining]]></excerpt:encoded>
@@ -1088,7 +1088,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=39</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=39</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=39</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:10:"Contact Us";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[button_text]]></excerpt:encoded>
@@ -1112,7 +1112,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=40</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=40</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[button_link]]></excerpt:encoded>
@@ -1136,7 +1136,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=41</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=41</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=41</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[button_link_copy]]></excerpt:encoded>
@@ -1160,7 +1160,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=42</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=42</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=42</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[mailchimp_shortcode]]></excerpt:encoded>
@@ -1184,7 +1184,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=43</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=43</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=43</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:18:{s:4:"type";s:7:"gallery";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:3:"100";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:3:"min";s:0:"";s:3:"max";s:0:"";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";s:6:"insert";s:6:"append";s:12:"preview_size";s:6:"medium";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[gallery_image]]></excerpt:encoded>
@@ -1208,7 +1208,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=45</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=45</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:10:"true_false";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:7:"message";s:27:"Is it invisible breadcrumb?";s:13:"default_value";i:0;s:10:"ui_on_text";s:3:"Yes";s:11:"ui_off_text";s:2:"No";s:2:"ui";i:1;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[is_it_invisible_breadcrumb]]></excerpt:encoded>
@@ -1232,7 +1232,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=46</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=46</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:15:{s:4:"type";s:5:"image";s:12:"instructions";s:27:"Breadcrumb Background Image";s:8:"required";i:0;s:17:"conditional_logic";a:1:{i:0;a:1:{i:0;a:3:{s:5:"field";s:19:"field_5ee5a2875481b";s:8:"operator";s:2:"!=";s:5:"value";s:1:"1";}}}s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:7:"jpg,png";s:12:"preview_size";s:4:"full";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[breadcrumb_background_image]]></excerpt:encoded>
@@ -1256,7 +1256,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=47</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=47</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:13:{s:4:"type";s:6:"select";s:12:"instructions";s:26:"Please chose header style.";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:7:"choices";a:1:{s:14:"header-style-1";s:14:"Header Style 1";}s:13:"default_value";s:14:"header-style-1";s:13:"return_format";s:5:"value";s:8:"multiple";i:0;s:10:"allow_null";i:1;s:2:"ui";i:0;s:4:"ajax";i:0;s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[header_style]]></excerpt:encoded>
@@ -1280,7 +1280,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=48</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=48</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:13:{s:4:"type";s:6:"select";s:12:"instructions";s:26:"Please chose footer style.";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:7:"choices";a:2:{s:14:"footer-style-1";s:14:"Footer Style 1";s:14:"footer-style-2";s:14:"Footer Style 2";}s:13:"default_value";s:14:"footer-style-1";s:13:"return_format";s:5:"value";s:8:"multiple";i:0;s:10:"allow_null";i:0;s:2:"ui";i:0;s:4:"ajax";i:0;s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[footer_style]]></excerpt:encoded>
@@ -1304,7 +1304,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=49</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=49</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:15:{s:4:"type";s:5:"image";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";s:12:"preview_size";s:6:"medium";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[gamestorm_footer_bg]]></excerpt:encoded>
@@ -1328,7 +1328,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=50</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=50</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:4:"type";s:12:"color_picker";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:14:"enable_opacity";i:0;s:13:"return_format";s:6:"string";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[gamestorm_footer_bg_color]]></excerpt:encoded>
@@ -1352,7 +1352,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=52</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=52</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[breadcrumb_titile]]></excerpt:encoded>
@@ -1376,7 +1376,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=53</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=53</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[breadcrumb_description]]></excerpt:encoded>
@@ -1400,7 +1400,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=55</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=55</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=55</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[fromate_style]]></excerpt:encoded>
@@ -1424,7 +1424,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=57</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=57</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:14:"sports_esports";s:9:"maxlength";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[service_single_icon_text]]></excerpt:encoded>
@@ -1448,7 +1448,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=874</link>
 		<pubDate>Mon, 04 Dec 2023 06:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=874</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=874</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:15:{s:4:"type";s:5:"image";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"return_format";s:5:"array";s:7:"library";s:3:"all";s:9:"min_width";s:0:"";s:10:"min_height";s:0:"";s:8:"min_size";s:0:"";s:9:"max_width";s:0:"";s:10:"max_height";s:0:"";s:8:"max_size";s:0:"";s:10:"mime_types";s:0:"";s:12:"preview_size";s:6:"medium";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[steam_store_image]]></excerpt:encoded>
@@ -1472,7 +1472,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=875</link>
 		<pubDate>Mon, 04 Dec 2023 06:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=875</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=875</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"50";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[steam_store_link]]></excerpt:encoded>
@@ -1496,7 +1496,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=883</link>
 		<pubDate>Mon, 04 Dec 2023 06:32:09 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=883</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=883</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[facebook_url_game]]></excerpt:encoded>
@@ -1520,7 +1520,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=884</link>
 		<pubDate>Mon, 04 Dec 2023 06:32:09 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=884</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=884</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[instagram_url_game]]></excerpt:encoded>
@@ -1544,7 +1544,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=885</link>
 		<pubDate>Mon, 04 Dec 2023 06:32:09 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=885</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=885</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[linkedin_url_game]]></excerpt:encoded>
@@ -1568,7 +1568,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=886</link>
 		<pubDate>Mon, 04 Dec 2023 06:32:09 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=acf-field&#038;p=886</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=acf-field&#038;p=886</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:7:{s:4:"type";s:3:"url";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:2:"25";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[twitter_url_game]]></excerpt:encoded>
@@ -1592,7 +1592,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field-group&#038;p=16</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=16</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=16</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:8:"taxonomy";s:8:"operator";s:2:"==";s:5:"value";s:9:"games-cat";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[category-icon]]></excerpt:encoded>
@@ -1616,7 +1616,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field-group&#038;p=20</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=20</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:5:"games";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[games]]></excerpt:encoded>
@@ -1640,7 +1640,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field-group&#038;p=34</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=34</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:3:"job";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[job]]></excerpt:encoded>
@@ -1664,7 +1664,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field-group&#038;p=44</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=44</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:6:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:4:"page";}}i:1;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:5:"games";}}i:2;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:8:"services";}}i:3;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:3:"job";}}i:4;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:7:"product";}}i:5;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:4:"post";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[page-info]]></excerpt:encoded>
@@ -1688,7 +1688,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field-group&#038;p=54</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=54</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=54</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:2:{i:0;a:1:{i:0;a:3:{s:5:"param";s:11:"post_format";s:8:"operator";s:2:"==";s:5:"value";s:5:"video";}}i:1;a:1:{i:0;a:3:{s:5:"param";s:11:"post_format";s:8:"operator";s:2:"==";s:5:"value";s:5:"audio";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[post-formatted]]></excerpt:encoded>
@@ -1712,7 +1712,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field-group&#038;p=56</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=56</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:8:"services";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[service]]></excerpt:encoded>
@@ -1736,7 +1736,7 @@
 		<link>https://pixelaxis.net/gamestorm/?post_type=acf-field-group&#038;p=887</link>
 		<pubDate>Tue, 28 Nov 2023 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=18</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:11:"post_format";s:8:"operator";s:2:"==";s:5:"value";s:7:"gallery";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[gallery-post-formatted]]></excerpt:encoded>
@@ -11861,7 +11861,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/upgrade-your-weapon/</link>
 		<pubDate>Tue, 28 Nov 2023 07:51:59 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=games&#038;p=126</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=games&#038;p=126</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -12560,7 +12560,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/shadow-quest/</link>
 		<pubDate>Tue, 28 Nov 2023 08:25:50 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -13276,7 +13276,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/galactic-escape/</link>
 		<pubDate>Tue, 28 Nov 2023 08:25:52 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -14000,7 +14000,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/cyber-crusade/</link>
 		<pubDate>Tue, 28 Nov 2023 08:25:55 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -14732,7 +14732,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/galactic-nexus/</link>
 		<pubDate>Tue, 28 Nov 2023 08:25:58 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -15471,7 +15471,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/celestial-odyssey/</link>
 		<pubDate>Tue, 28 Nov 2023 08:26:00 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -16218,7 +16218,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/starlight-vanguard/</link>
 		<pubDate>Tue, 28 Nov 2023 08:26:06 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -16972,7 +16972,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/astroquest/</link>
 		<pubDate>Tue, 28 Nov 2023 08:26:08 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -17735,7 +17735,7 @@
 		<link>https://pixelaxis.net/gamestorm/games/galactic-rift/</link>
 		<pubDate>Tue, 28 Nov 2023 08:26:12 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy-copy-copy-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -18505,7 +18505,7 @@
 		<link>https://pixelaxis.net/gamestorm/job/lead-developer/</link>
 		<pubDate>Tue, 28 Nov 2023 10:28:40 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=job&#038;p=233</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=job&#038;p=233</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 <div class="single-content mb-8">
@@ -18614,7 +18614,7 @@ composition, layout, lighting, color theory,</li>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[button_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://titu.softivus.com/gamestorm/contact/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://pixelaxis.net/gamestorm/contact/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_button_link]]></wp:meta_key>
@@ -18726,7 +18726,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/job/level-game-designer/</link>
 		<pubDate>Tue, 28 Nov 2023 10:37:57 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/job/senior-level-game-designer-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/job/senior-level-game-designer-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 <div class="single-content mb-8">
@@ -18836,7 +18836,7 @@ composition, layout, lighting, color theory,</li>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[button_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://titu.softivus.com/gamestorm/contact/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://pixelaxis.net/gamestorm/contact/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_button_link]]></wp:meta_key>
@@ -18944,7 +18944,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/games/plants-war/</link>
 		<pubDate>Thu, 30 Nov 2023 08:31:28 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -19410,7 +19410,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/games/king-of-jungle/</link>
 		<pubDate>Thu, 30 Nov 2023 08:33:55 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -19880,7 +19880,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/games/jaguar-attck/</link>
 		<pubDate>Thu, 30 Nov 2023 08:34:25 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/games/upgrade-your-weapon-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/games/upgrade-your-weapon-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                             Online
@@ -20354,7 +20354,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/?elementor_library=default-kit-2</link>
 		<pubDate>Tue, 28 Nov 2023 05:19:55 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=6</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20530,7 +20530,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/mc4wp-form/241/</link>
 		<pubDate>Tue, 28 Nov 2023 10:30:55 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/mc4wp-form/241/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/mc4wp-form/241/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div action="#" class="form-contact mt-8 mt-lg-0 py-8 py-sm-15 px-4 px-sm-8">
   <div class="input-area p-4 d-grid d-sm-flex align-items-center justify-content-between">
@@ -20603,7 +20603,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/job/sr-ui-ux-game-designer/</link>
 		<pubDate>Tue, 28 Nov 2023 10:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/job/senior-level-game-designer-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/job/senior-level-game-designer-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 <div class="single-content mb-8">
@@ -20713,7 +20713,7 @@ composition, layout, lighting, color theory,</li>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[button_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://titu.softivus.com/gamestorm/contact/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://pixelaxis.net/gamestorm/contact/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_button_link]]></wp:meta_key>
@@ -20821,7 +20821,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/job/sr-unity-developer/</link>
 		<pubDate>Tue, 28 Nov 2023 10:38:01 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/job/senior-level-game-designer-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/job/senior-level-game-designer-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 <div class="single-content mb-8">
@@ -20931,7 +20931,7 @@ composition, layout, lighting, color theory,</li>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[button_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://titu.softivus.com/gamestorm/contact/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://pixelaxis.net/gamestorm/contact/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_button_link]]></wp:meta_key>
@@ -21039,7 +21039,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/job/sr-3d-artist/</link>
 		<pubDate>Tue, 28 Nov 2023 10:42:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/job/slead-vfx-artist-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/job/slead-vfx-artist-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 <div class="single-content mb-8">
@@ -21149,7 +21149,7 @@ composition, layout, lighting, color theory,</li>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[button_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://titu.softivus.com/gamestorm/contact/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://pixelaxis.net/gamestorm/contact/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_button_link]]></wp:meta_key>
@@ -21261,7 +21261,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/job/product-manager/</link>
 		<pubDate>Tue, 28 Nov 2023 10:43:08 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/job/slead-vfx-artist-copy-2/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/job/slead-vfx-artist-copy-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 <div class="single-content mb-8">
@@ -21370,7 +21370,7 @@ composition, layout, lighting, color theory,</li>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[button_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://titu.softivus.com/gamestorm/contact/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://pixelaxis.net/gamestorm/contact/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_button_link]]></wp:meta_key>
@@ -21482,7 +21482,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/409/</link>
 		<pubDate>Wed, 29 Nov 2023 07:11:01 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=409</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=409</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21543,7 +21543,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/410/</link>
 		<pubDate>Wed, 29 Nov 2023 07:11:01 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=410</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=410</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21604,7 +21604,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/411/</link>
 		<pubDate>Wed, 29 Nov 2023 07:11:01 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=411</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=411</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21665,7 +21665,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/412/</link>
 		<pubDate>Wed, 29 Nov 2023 07:11:01 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=412</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=412</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21726,7 +21726,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/413/</link>
 		<pubDate>Wed, 29 Nov 2023 07:11:01 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=413</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=413</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21787,7 +21787,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/414/</link>
 		<pubDate>Wed, 29 Nov 2023 07:40:12 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=414</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=414</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21844,7 +21844,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/415/</link>
 		<pubDate>Wed, 29 Nov 2023 07:40:12 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=415</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=415</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21901,7 +21901,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/416/</link>
 		<pubDate>Wed, 29 Nov 2023 07:40:12 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=416</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=416</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21958,7 +21958,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/417/</link>
 		<pubDate>Wed, 29 Nov 2023 07:40:12 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=417</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=417</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22015,7 +22015,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1016/</link>
 		<pubDate>Mon, 04 Dec 2023 10:44:18 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1016</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1016</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22076,7 +22076,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1017/</link>
 		<pubDate>Mon, 04 Dec 2023 10:44:19 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1017</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1017</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22137,7 +22137,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/home/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1343</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1343</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22206,7 +22206,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/home-one/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1344</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1344</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22275,7 +22275,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1345/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1345</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1345</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22344,7 +22344,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1346/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1346</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1346</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22413,7 +22413,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/game/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1347</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1347</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22482,7 +22482,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1348/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1348</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1348</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22551,7 +22551,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/service/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1350</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1350</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22620,7 +22620,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1351/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1351</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1351</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22689,7 +22689,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1352/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1352</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1352</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22758,7 +22758,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1353/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1353</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1353</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22827,7 +22827,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1355/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1355</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1355</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22896,7 +22896,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/pages/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1356</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1356</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -22965,7 +22965,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1357/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1357</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1357</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23034,7 +23034,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/careers/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1358</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1358</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23103,7 +23103,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1359/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1359</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1359</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23172,7 +23172,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/store/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1361</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1361</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23241,7 +23241,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1362/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1362</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1362</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23310,7 +23310,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1364/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1364</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1364</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23379,7 +23379,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1365/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1365</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1365</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23448,7 +23448,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1366/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1366</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1366</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23517,7 +23517,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1367/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1367</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1367</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23586,7 +23586,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1368/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1368</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1368</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23655,7 +23655,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/blog/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1369</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1369</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23724,7 +23724,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/1370/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1370</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1370</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -23893,7 +23893,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/checkout/</link>
 		<pubDate>Tue, 28 Nov 2023 05:23:11 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/index.php/checkout/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/index.php/checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:woocommerce/checkout -->
 <div class="wp-block-woocommerce-checkout alignwide wc-block-checkout is-loading"><!-- wp:woocommerce/checkout-fields-block -->
@@ -24067,7 +24067,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/my-account/</link>
 		<pubDate>Tue, 28 Nov 2023 05:23:11 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/index.php/my-account/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/index.php/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -24163,7 +24163,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/wishlist-2/</link>
 		<pubDate>Tue, 28 Nov 2023 05:25:56 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/index.php/wishlist/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/index.php/wishlist/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[yith_wcwl_wishlist]<!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -24259,7 +24259,7 @@ composition, layout, lighting, color theory,</li>
 		<link>https://pixelaxis.net/gamestorm/</link>
 		<pubDate>Tue, 28 Nov 2023 06:02:55 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=68</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                         <img src="https://pixelaxis.net/gamestorm/wp-content/themes/gamestorm/assets/img/abs-items/planet.png" alt="icon">
@@ -25292,7 +25292,7 @@ style. Over 100 million people play our games every month</p>
 		<link>https://pixelaxis.net/gamestorm/home-two/</link>
 		<pubDate>Tue, 28 Nov 2023 06:03:12 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=70</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                         <img src="https://pixelaxis.net/gamestorm/wp-content/themes/gamestorm/assets/img/abs-items/bubble.png" alt="icon">
@@ -26247,7 +26247,7 @@ style. Over 100 million people play our games every month</p>
 		<link>https://pixelaxis.net/gamestorm/home-three/</link>
 		<pubDate>Tue, 28 Nov 2023 06:03:29 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=72</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=72</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                         <img src="https://pixelaxis.net/gamestorm/wp-content/themes/gamestorm/assets/img/abs-items/ellipse-9.png" alt="icon">
@@ -26647,7 +26647,7 @@ style. Over 100 million people play our games every month</p>
 		<link>https://pixelaxis.net/gamestorm/game/</link>
 		<pubDate>Tue, 28 Nov 2023 06:03:59 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=74</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=74</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
 <h2>The Four Key Components of a Gamestorm studio</h2>
@@ -27408,7 +27408,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/services-one/</link>
 		<pubDate>Tue, 28 Nov 2023 06:04:43 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=76</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=76</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
 <h4>Game Design &amp; Development Services</h4>
@@ -27769,7 +27769,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/services-two/</link>
 		<pubDate>Tue, 28 Nov 2023 06:04:54 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=78</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=78</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
 <h2>Our Comprehensive Game Development Services</h2>
@@ -28119,7 +28119,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/services-three/</link>
 		<pubDate>Tue, 28 Nov 2023 06:05:09 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=80</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=80</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section><img src="https://pixelaxis.net/gamestorm/wp-content/themes/gamestorm/assets/img/abs-items/star.png" alt="Icon" />
 <h4>Bringing Your Gaming Vision to Life</h4>
@@ -28540,7 +28540,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/about/</link>
 		<pubDate>Tue, 28 Nov 2023 06:06:11 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=82</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=82</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                                                     <img src="https://pixelaxis.net/gamestorm/wp-content/uploads/2025/09/about-block-bg-3-1.webp" alt="about_image">
@@ -28974,7 +28974,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/shop/</link>
 		<pubDate>Tue, 28 Nov 2023 05:23:11 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/index.php/shop/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/index.php/shop/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -29070,7 +29070,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/cart/</link>
 		<pubDate>Tue, 28 Nov 2023 05:23:11 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/index.php/cart/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/index.php/cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:woocommerce/cart -->
 <div class="wp-block-woocommerce-cart alignwide is-loading"><!-- wp:woocommerce/filled-cart-block -->
@@ -29244,7 +29244,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/1372/</link>
 		<pubDate>Wed, 13 Dec 2023 08:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=1372</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=1372</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -29622,7 +29622,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/pricing-plan/</link>
 		<pubDate>Tue, 28 Nov 2023 06:06:38 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=84</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=84</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                                     <h4>Deliver successful projects every time</h4>
@@ -29976,7 +29976,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/career/</link>
 		<pubDate>Tue, 28 Nov 2023 06:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=86</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=86</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                                     <h4>What We Offer</h4>
@@ -30245,7 +30245,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/contact/</link>
 		<pubDate>Tue, 28 Nov 2023 06:07:40 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=88</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=88</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                                                     <h4>Have Questions?</h4>
@@ -30523,7 +30523,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/blog/</link>
 		<pubDate>Tue, 28 Nov 2023 06:08:09 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=90</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=90</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -30619,7 +30619,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/crafting-digital-worlds-with-expertise/</link>
 		<pubDate>Sat, 02 Dec 2023 08:47:53 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?p=531</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?p=531</guid>
 		<description></description>
 		<content:encoded><![CDATA[When you think about your favourite video games, what stands out? Is it the gameplay, the graphics, or maybe the story? Chances are, the music and sound effects played a big role in creating the overall experience. In fact, music and sound effects are an essential component of game design, helping to set the tone, build immersion, and create memorable moments.Here are just a few ways music and sound effects impact game design:
 <div class="single-content row align-items-center mb-5">
@@ -30756,7 +30756,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 		<link>https://pixelaxis.net/gamestorm/game-developments-user-testing-imperative/</link>
 		<pubDate>Sun, 03 Dec 2023 04:10:19 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[When you think about your favourite video games, what stands out? Is it the gameplay, the graphics, or maybe the story? Chances are, the music and sound effects played a big role in creating the overall experience. In fact, music and sound effects are an essential component of game design, helping to set the tone, build immersion, and create memorable moments.Here are just a few ways music and sound effects impact game design:
 <div class="single-content row align-items-center mb-5">
@@ -30904,7 +30904,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 		<link>https://pixelaxis.net/gamestorm/unlocking-excellence-in-game-testing/</link>
 		<pubDate>Sun, 03 Dec 2023 04:18:43 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[When you think about your favourite video games, what stands out? Is it the gameplay, the graphics, or maybe the story? Chances are, the music and sound effects played a big role in creating the overall experience. In fact, music and sound effects are an essential component of game design, helping to set the tone, build immersion, and create memorable moments.Here are just a few ways music and sound effects impact game design:
 <div class="single-content row align-items-center mb-5">
@@ -31133,7 +31133,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 		<link>https://pixelaxis.net/gamestorm/the-game-developers-testing-essentials/</link>
 		<pubDate>Sun, 03 Dec 2023 04:22:28 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[When you think about your favourite video games, what stands out? Is it the gameplay, the graphics, or maybe the story? Chances are, the music and sound effects played a big role in creating the overall experience. In fact, music and sound effects are an essential component of game design, helping to set the tone, build immersion, and create memorable moments.Here are just a few ways music and sound effects impact game design:
 <div class="single-content row align-items-center mb-5">
@@ -31276,7 +31276,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[admin]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[admin@titu.softivus.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://titu.softivus.com/gamestorm</wp:comment_author_url>
+			<wp:comment_author_url>https://pixelaxis.net/gamestorm</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.153.28.164]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2023-12-13 03:34:17]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2023-12-13 03:34:17]]></wp:comment_date_gmt>
@@ -31294,7 +31294,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 			<wp:comment_id>6</wp:comment_id>
 			<wp:comment_author><![CDATA[Titu]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[titufrk@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://titu.softivus.com/gamestorm</wp:comment_author_url>
+			<wp:comment_author_url>https://pixelaxis.net/gamestorm</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[59.153.28.164]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2023-12-13 03:35:01]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2023-12-13 03:35:01]]></wp:comment_date_gmt>
@@ -31338,7 +31338,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 		<link>https://pixelaxis.net/gamestorm/elevating-games-through-user-testing/</link>
 		<pubDate>Sun, 03 Dec 2023 04:23:24 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[When you think about your favourite video games, what stands out? Is it the gameplay, the graphics, or maybe the story? Chances are, the music and sound effects played a big role in creating the overall experience. In fact, music and sound effects are an essential component of game design, helping to set the tone, build immersion, and create memorable moments.Here are just a few ways music and sound effects impact game design:
 <div class="single-content row align-items-center mb-5">
@@ -31483,7 +31483,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 		<link>https://pixelaxis.net/gamestorm/precision-in-game-testing-strategies/</link>
 		<pubDate>Sun, 03 Dec 2023 04:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/crafting-digital-worlds-with-expertise-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[When you think about your favourite video games, what stands out? Is it the gameplay, the graphics, or maybe the story? Chances are, the music and sound effects played a big role in creating the overall experience. In fact, music and sound effects are an essential component of game design, helping to set the tone, build immersion, and create memorable moments.Here are just a few ways music and sound effects impact game design:
 <div class="single-content row align-items-center mb-5">
@@ -31628,7 +31628,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 		<link>https://pixelaxis.net/gamestorm/privacy-policy-2/</link>
 		<pubDate>Sun, 03 Dec 2023 09:03:27 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=792</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=792</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                             <h4>We're always looking for new ways to provide privacy for our customers.</h4>
@@ -31834,7 +31834,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 		<link>https://pixelaxis.net/gamestorm/terms-conditions/</link>
 		<pubDate>Sun, 03 Dec 2023 09:19:38 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?page_id=798</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?page_id=798</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                             <h4>We're always looking for new ways to provide privacy for our customers.</h4>
@@ -32049,7 +32049,7 @@ Ultimately, music and sound effects are a crucial aspect of game design that can
 		<link>https://pixelaxis.net/gamestorm/product/joystick/</link>
 		<pubDate>Tue, 05 Dec 2023 04:58:17 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1061</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1061</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -32276,7 +32276,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/headphone/</link>
 		<pubDate>Tue, 05 Dec 2023 05:17:42 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1063</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1063</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -32476,7 +32476,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/gaming-headphone/</link>
 		<pubDate>Tue, 05 Dec 2023 05:20:00 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1065</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1065</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -32679,7 +32679,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/quantum-quest/</link>
 		<pubDate>Tue, 05 Dec 2023 05:31:27 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1067</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1067</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -32882,7 +32882,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/celestial-dominion/</link>
 		<pubDate>Tue, 05 Dec 2023 05:34:02 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1071</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1071</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -33085,7 +33085,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/wireless-controller/</link>
 		<pubDate>Tue, 05 Dec 2023 05:37:38 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1073</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1073</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -33475,7 +33475,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/?post_type=wpcf7_contact_form&#038;p=14</link>
 		<pubDate>Tue, 28 Nov 2023 05:26:52 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=wpcf7_contact_form&#038;p=14</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=wpcf7_contact_form&#038;p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your name
     [text* your-name autocomplete:name] </label>
@@ -33602,7 +33602,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<link>https://pixelaxis.net/gamestorm/services/game-development/</link>
 		<pubDate>Tue, 28 Nov 2023 09:46:10 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=services&#038;p=200</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=services&#038;p=200</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>We Specialize In Such AreasOur game development agency is equally professionally focused on full cycle game development from scratch, co-development of gaming solutions with highly productive teamwork and fast and efficient game porting. Entrust your project to a game development team that can light real stars in the sky of the gaming industry.
 <h2>01</h2>
@@ -33991,7 +33991,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/services/game-art-design/</link>
 		<pubDate>Tue, 28 Nov 2023 09:47:17 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=services&#038;p=202</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=services&#038;p=202</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>We Specialize In Such AreasOur game development agency is equally professionally focused on full cycle game development from scratch, co-development of gaming solutions with highly productive teamwork and fast and efficient game porting. Entrust your project to a game development team that can light real stars in the sky of the gaming industry.
 <h2>01</h2>
@@ -34380,7 +34380,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/services/nft-development/</link>
 		<pubDate>Tue, 28 Nov 2023 09:48:06 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=services&#038;p=205</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=services&#038;p=205</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>We Specialize In Such AreasOur game development agency is equally professionally focused on full cycle game development from scratch, co-development of gaming solutions with highly productive teamwork and fast and efficient game porting. Entrust your project to a game development team that can light real stars in the sky of the gaming industry.
 <h2>01</h2>
@@ -34769,7 +34769,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/services/vr-ar-solutions/</link>
 		<pubDate>Tue, 28 Nov 2023 09:48:34 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=services&#038;p=207</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=services&#038;p=207</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>We Specialize In Such AreasOur game development agency is equally professionally focused on full cycle game development from scratch, co-development of gaming solutions with highly productive teamwork and fast and efficient game porting. Entrust your project to a game development team that can light real stars in the sky of the gaming industry.
 <h2>01</h2>
@@ -35158,7 +35158,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/?post_type=wpcf7_contact_form&#038;p=282</link>
 		<pubDate>Wed, 29 Nov 2023 04:23:22 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=wpcf7_contact_form&#038;p=282</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=wpcf7_contact_form&#038;p=282</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div  class="p-4">
     <div class="form-inside p-4">
@@ -35346,7 +35346,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<link>https://pixelaxis.net/gamestorm/services/product-manager/</link>
 		<pubDate>Sun, 03 Dec 2023 06:25:24 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/services/nft-development-copy/</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/services/nft-development-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>We Specialize In Such AreasOur game development agency is equally professionally focused on full cycle game development from scratch, co-development of gaming solutions with highly productive teamwork and fast and efficient game porting. Entrust your project to a game development team that can light real stars in the sky of the gaming industry.
 <h2>01</h2>
@@ -35743,7 +35743,7 @@ Subscribe
 		<link>https://pixelaxis.net/gamestorm/?post_type=wpcf7_contact_form&#038;p=716</link>
 		<pubDate>Sun, 03 Dec 2023 07:32:28 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=wpcf7_contact_form&#038;p=716</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=wpcf7_contact_form&#038;p=716</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div  class="p-4">
 <h3 class="visible-slowly-bottom mb-4">Write A Message</h3>
@@ -35933,7 +35933,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<link>https://pixelaxis.net/gamestorm/services/web-development/</link>
 		<pubDate>Sun, 03 Dec 2023 10:35:07 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=services&#038;p=830</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=services&#038;p=830</guid>
 		<description></description>
 		<content:encoded><![CDATA[<section>
                                                                                         We Specialize In Such Areas
@@ -36373,7 +36373,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<link>https://pixelaxis.net/gamestorm/product/emberfall-chronicles/</link>
 		<pubDate>Tue, 05 Dec 2023 05:46:48 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1076</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1076</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -36576,7 +36576,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/smart-glass/</link>
 		<pubDate>Tue, 05 Dec 2023 05:50:33 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1078</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1078</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -36775,7 +36775,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/hd-camera/</link>
 		<pubDate>Tue, 05 Dec 2023 05:52:34 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1080</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1080</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -36975,7 +36975,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/kickoff-kings/</link>
 		<pubDate>Tue, 05 Dec 2023 05:54:32 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1082</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1082</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -37177,7 +37177,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/hd-monitor/</link>
 		<pubDate>Tue, 05 Dec 2023 05:58:06 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1084</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1084</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -37377,7 +37377,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/astral-vanguard/</link>
 		<pubDate>Tue, 05 Dec 2023 06:04:06 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1086</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1086</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -37580,7 +37580,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/runeblade-chronicles/</link>
 		<pubDate>Tue, 05 Dec 2023 06:06:11 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1088</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1088</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -37783,7 +37783,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/stereo-headset/</link>
 		<pubDate>Tue, 05 Dec 2023 06:08:22 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1090</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1090</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
@@ -37984,7 +37984,7 @@ structures, to generate Lorem Ipsum which looks reasonable.
 		<link>https://pixelaxis.net/gamestorm/product/vr-box/</link>
 		<pubDate>Tue, 05 Dec 2023 06:10:19 +0000</pubDate>
 		<dc:creator><![CDATA[Gamestorm]]></dc:creator>
-		<guid isPermaLink="false">https://titu.softivus.com/gamestorm/?post_type=product&#038;p=1092</guid>
+		<guid isPermaLink="false">https://pixelaxis.net/gamestorm/?post_type=product&#038;p=1092</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="tab-content">
 <div class="description">
